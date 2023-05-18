@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be the creation of a website with no css. It will contain links to a few recipies and will not be very pretty. I'm following the tutorial from The Odin Project and am excited to see how this turns out.
